@@ -53,7 +53,6 @@
 
 ## 📌 Featured Projects
 
-- 🎬 **CineWatch** – Movie browsing UI  
 - 🛒 **Mini E-Commerce Website** – Online shopping interface  
 - 🔐 **Password Generator** – Secure password tool  
 - 🎮 **Rock Paper Scissors** – Fun JS game  
