@@ -11,7 +11,7 @@
 - 🎓 Studying at NST-ADYPU (Computer Science - AI/ML)
 - 🌱 Currently learning: React
 - 🛠️ Love building projects and exploring new tech
-- 📫 Reach me: himanshubansal2608@gmail.com
+- 📫 Reach me: reach.himanshu1803@gmail.com
 
 ---
 
