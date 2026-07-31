@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Himanshu Bansal</h1>
 
 <p align="center">
-  💻 First Year CSE (AI/ML) Student <br>
+  💻 Second Year CSE (AI/ML) Student <br>
   🚀 Passionate about Web Development & Problem Solving
 </p>
 
