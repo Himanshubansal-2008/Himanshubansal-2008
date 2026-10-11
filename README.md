@@ -1,54 +1,111 @@
-<h1 align="center">Hi there 👋, I'm Himanshu Bansal</h1>
+# Hi there 👋, I'm Himanshu Bansal
 
 <p align="center">
-  💻 Second Year CSE (AI/ML) Student <br>
-  🚀 Passionate about Web Development & Problem Solving
+  💻 Second-Year B.Tech CSE (AI/ML) Student <br>
+  🚀 Aspiring Full Stack Developer | Problem Solver
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Studying at NST-ADYPU (Computer Science - AI/ML)
-- 🛠️ Love building projects and exploring new tech
-- 📫 Reach me: reach.himanshu1803@gmail.com
+
+- 🎓 Pursuing B.Tech in Computer Science (AI & ML) at NST-ADYPU
+- 💻 Aspiring Full Stack Developer
+- 🛠️ Passionate about building projects and exploring new technologies
+- 📚 Continuously learning and improving my development skills
+- 📫 Reach me at: **[reach.himanshu1803@gmail.com](mailto:reach.himanshu1803@gmail.com)**
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![TAILWINDCSS](https://camo.githubusercontent.com/84af53087957d441ad085a426371a789f1a45cd082080cb9cf63e7dd38ac082d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465)
-![REACT](https://camo.githubusercontent.com/18f8a526265952d1a4ed04eff457c936721e64e5bf4e3f35cca938efe3f30de5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
+<div align="center">
 
-</p>
+### Languages
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
+### Frontend
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+### Backend & Database
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+
+### Tools & Frameworks
+
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+
+</div>
 
 ---
 
 ## 🏆 Achievements & Contributions
 
 <p align="center">
-  <img src="./assets/github-badges.png" width="100%" />
+  <img
+    src="./assets/github-badges.png"
+    width="750"
+    alt="GitHub Achievements and Contribution Badges"
+  />
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Himanshubansal-2008&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshubansal-2008&layout=compact&theme=tokyonight&hide_border=true&hide=C%2B%2B"
+    height="165"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
 
 ## 📌 Featured Projects
 
-- 🛒 **Mini E-Commerce Website** – Online shopping interface  
-- 🔐 **Password Generator** – Secure password tool  
-- 🎮 **Rock Paper Scissors** – Fun JS game  
-- 🌦️ **Weather Forecast App** – Live weather updates  
+- 🛒 **Mini E-Commerce Website** — An online shopping interface.
+- 🔐 **HireAI — Resume Screening Platform** — A project focused on resume screening and evaluation.
+- 🎬 **CineWatch** — A movie watchlist application.
+
+[Explore all my repositories →](https://github.com/Himanshubansal-2008?tab=repositories)
+
+---
+
+## 🧩 Coding Profiles
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Himanshu_2008">
+    <img
+      src="https://img.shields.io/badge/Codeforces-Himanshu__2008-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
+      alt="Codeforces Profile"
+    />
+  </a>
+  <a href="https://leetcode.com/u/Himanshu_2008/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Himanshu__2008-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode Profile"
+    />
+  </a>
+</p>
 
 ---
 
@@ -62,4 +119,6 @@
 
 ---
 
-⭐️ *“Code. Learn. Build. Repeat.”*
+<p align="center">
+  ⭐️ <i>Code. Learn. Build. Repeat.</i>
+</p>
