@@ -1,4 +1,3 @@
-# Hi there 👋, I'm Himanshu Bansal
 
 <h1 align="center">Hi there 👋, <br> I'm Himanshu Bansal</h1>
 
